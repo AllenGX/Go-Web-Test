@@ -1,0 +1,1 @@
+curl -I --http2 --insecure https://localhost:8080/
